@@ -29,7 +29,7 @@ public class IndianStates {
 		list.add("Sikkim");
 		list.add("Tamil Nadu");
 		list.add("Telangana");
-		list.add("Tripura	");
+		list.add("Tripura");
 		list.add("Uttar Pradesh");
 		list.add("Uttarakhand");
 		list.add("West Bengal");
